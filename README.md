@@ -14,11 +14,11 @@ Instant Feedback: Real-time execution status and a dedicated output console.
 
 📸 Interface Preview
 1. Multilingual Environment
-The sidebar allows for quick switching between languages, instantly updating the execution environment.<br><img width="1904" height="943" alt="Screenshot 2025-12-17 150136" src="https://github.com/user-attachments/assets/710d09f1-ed61-49df-940c-bf42b41e0f7d" />
+The sidebar allows for quick switching between languages, instantly updating the execution environment.<br><img width="1909" height="945" alt="Screenshot 2025-12-17 150113" src="https://github.com/user-attachments/assets/fbd0cc7b-9186-451f-89fd-4c208fd9a6d8" />
+
 
 2. Execution Settings & Output
-Fine-tune your runtime parameters and view live output in the integrated terminal. <br> <img width="1909" height="945" alt="Screenshot 2025-12-17 150113" src="https://github.com/user-attachments/assets/fbd0cc7b-9186-451f-89fd-4c208fd9a6d8" />
-
+Fine-tune your runtime parameters and view live output in the integrated terminal. <br> <img width="1904" height="943" alt="Screenshot 2025-12-17 150136" src="https://github.com/user-attachments/assets/710d09f1-ed61-49df-940c-bf42b41e0f7d" />
 🛠️ Technology Stack
 Frontend: Streamlit
 
