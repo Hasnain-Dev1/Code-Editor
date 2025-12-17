@@ -14,13 +14,14 @@ Instant Feedback: Real-time execution status and a dedicated output console.
 
 📸 Interface Preview
 1. Multilingual Environment
-The sidebar allows for quick switching between languages, instantly updating the execution environment.
+The sidebar allows for quick switching between languages, instantly updating the execution environment.<br><img width="1904" height="943" alt="Screenshot 2025-12-17 150136" src="https://github.com/user-attachments/assets/710d09f1-ed61-49df-940c-bf42b41e0f7d" />
 
 2. Execution Settings & Output
-Fine-tune your runtime parameters and view live output in the integrated terminal.
+Fine-tune your runtime parameters and view live output in the integrated terminal. <br> <img width="1909" height="945" alt="Screenshot 2025-12-17 150113" src="https://github.com/user-attachments/assets/fbd0cc7b-9186-451f-89fd-4c208fd9a6d8" />
 
 🛠️ Technology Stack
 Frontend: Streamlit
+
 
 Code Editor: Streamlit Ace (Ace Editor)
 
@@ -38,8 +39,8 @@ Clone the repository:
 
 Bash
 
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone this repository 
+cd this-repo-name
 Install dependencies:
 
 Bash
